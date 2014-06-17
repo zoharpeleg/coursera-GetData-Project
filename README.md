@@ -47,10 +47,11 @@ This is obtained by running the run_analysis.R script which performs the followi
 
 mean_table.txt
 ==============
- – A 180x66 table that provides the average of each variable (of the 66 mean/std variables) 
+A 180x66 table that provides the average of each variable (of the 66 mean/std variables) 
 for each activity and each subject (6 activities*30 subjects).
 
 This was obtained via the following steps (all steps in one command):
+
 1. Start with the proj_dataset data-frame obtained in part 1.
 2. Split the data frame by Subject and Activity columns using split(). R
    esulting with a list of 180 data frames, one per activity and subject
