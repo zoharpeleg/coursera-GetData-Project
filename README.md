@@ -3,14 +3,14 @@ The project data is downloaded and extracted to
 "UCI HAR Dataset" folder under the R working directory
 resulting with the following files:
  
-"UCI HAR Dataset/test/x_test.txt" - Test set
-"UCI HAR Dataset/train/x_train.txt" - Training set
-"UCI HAR Dataset/test/y_test.txt" - Test activity codes
-"UCI HAR Dataset/train/y_train.txt" - Training activity codes
-"UCI HAR Dataset/test/subject_test.txt" - Test subject ID
-"UCI HAR Dataset/train/subject_train.txt" - Training subject ID
-"UCI HAR Dataset/activity_labels.txt" - Activity-name labels
-"UCI HAR Dataset/features.txt" - Column names for the x_test and x_train
+- "UCI HAR Dataset/test/x_test.txt" - Test set
+- "UCI HAR Dataset/train/x_train.txt" - Training set
+- "UCI HAR Dataset/test/y_test.txt" - Test activity codes
+- "UCI HAR Dataset/train/y_train.txt" - Training activity codes
+- "UCI HAR Dataset/test/subject_test.txt" - Test subject ID
+- "UCI HAR Dataset/train/subject_train.txt" - Training subject ID
+- "UCI HAR Dataset/activity_labels.txt" - Activity-name labels
+- "UCI HAR Dataset/features.txt" - Column names for the x_test and x_train
  
 The script performs the following:
 
